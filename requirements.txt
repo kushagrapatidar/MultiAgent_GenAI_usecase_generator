@@ -1,0 +1,5 @@
+python
+requests
+crewai
+bs4
+fastapi
